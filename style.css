@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 90%;
+    height: 60px;
+    background-color: aqua;
+    margin: 40px 40px;
+}
+
+h3{
+    padding: 20px 20px;
+}
